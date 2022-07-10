@@ -1,6 +1,6 @@
-# Flutter ParibuClone
+# Flutter Turkish Airlines Clone
 
-Building a Paribu Clone in Flutter.
+Building a Turkish Airlines Clone in Flutter.
 
 ### Show some :heart: and star the repo to support the project
 
